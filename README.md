@@ -6,16 +6,19 @@ Bing首页每日更新一张来自世界各地的精美图片。通过imgRun提�
 
 您可以在浏览器中输入[https://bing.img.run](https://bing.img.run/)来访问本项目主页。
 
+本人博客介绍页面：[https://mikelin.cn/3281.html](https://mikelin.cn/3281.html)
+
 ## 接口演示
 
 下面这张图片就是使用本API直接获取的哦，点击右键-在新标签页中打开图片，便可以发现区别啦~
 
 PHP输出
 
+![Bing每日壁纸](https://bing.img.run/1920x1080.php)
+
 Bing直链
 
-![](https://bing.img.run/1920x1080.php)
-Bing每日壁纸
+![Bing每日壁纸](https://bing.img.run/1920x1080_302.php)
 
 ## 代码开源
 
@@ -34,13 +37,21 @@ Bing每日壁纸
 ### PHP直接输出图片
 
 ```
-<img src="https://bing.img.run/1920x1080.php" alt="Bing每日壁纸1080P高清" /><img src="https://bing.img.run/1366x768.php" alt="Bing每日图片" /><img src="https://bing.img.run/m.php" alt="Bing每日壁纸手机超高清" />
+<img src="https://bing.img.run/1920x1080.php" alt="Bing每日壁纸1080P高清" />
+
+<img src="https://bing.img.run/1366x768.php" alt="Bing每日图片" />
+
+<img src="https://bing.img.run/m.php" alt="Bing每日壁纸手机超高清" />
 ```
 
 ### 跳转至Bing图片直链
 
 ```
-<img src="https://bing.img.run/1920x1080_302.php" alt="Bing每日壁纸1080P高清" /><img src="https://bing.img.run/1366x768_302.php" alt="Bing每日图片" /><img src="https://bing.img.run/m_302.php" alt="Bing每日壁纸手机超高清" />
+<img src="https://bing.img.run/1920x1080_302.php" alt="Bing每日壁纸1080P高清" />
+
+<img src="https://bing.img.run/1366x768_302.php" alt="Bing每日图片" />
+
+<img src="https://bing.img.run/m_302.php" alt="Bing每日壁纸手机超高清" />
 ```
 
 ## 文件说明
