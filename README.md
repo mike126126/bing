@@ -8,18 +8,6 @@ Bing首页每日更新一张来自世界各地的精美图片。通过imgRun提�
 
 本人博客介绍页面：[https://mikelin.cn/3281.html](https://mikelin.cn/3281.html)
 
-## 接口演示
-
-下面这张图片就是使用本API直接获取的哦，点击右键-在新标签页中打开图片，便可以发现区别啦~
-
-PHP输出
-
-![Bing每日壁纸](https://bing.img.run/1920x1080.php)
-
-Bing直链
-
-![Bing每日壁纸](https://bing.img.run/1920x1080_302.php)
-
 ## 代码开源
 
 开源，是一种互联网精神。本着取之于民用之于民的原则，本人将代码开源在Github上。链接：
